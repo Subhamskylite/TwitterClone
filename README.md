@@ -33,7 +33,3 @@
 username: demoaccount
 password: 12345678
 ```
-
-## Demo
-
-![Feed](demo/feed.png)
